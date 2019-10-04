@@ -1,3 +1,3 @@
 # Bindings
 
-Ejemplo de usus en **JavaFX** 
+Ejemplo de usos en **JavaFX** 
